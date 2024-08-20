@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://falderac.github.io/sitemap.html.gz
+Sitemap: https://falderac.github.io/app/sitemap.html.gz
+Sitemap: https://falderac.github.io/assets/sitemap.html.gz
+Sitemap: https://falderac.github.io/css/sitemap.html.gz
+Sitemap: https://falderac.github.io/includes/sitemap.html.gz
+Sitemap: https://falderac.github.io/item/sitemap.html.gz
+Sitemap: https://falderac.github.io/src/sitemap.html.gz
